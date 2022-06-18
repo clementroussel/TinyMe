@@ -6,3 +6,4 @@
 - [watchdog](https://python-watchdog.readthedocs.io/en/stable/#)
 - [argparse](https://docs.python.org/3/howto/argparse.html)
 - [pathlib](https://pathlib.readthedocs.io/en/latest/)
+- [threading](https://docs.python.org/3/library/threading.html)
